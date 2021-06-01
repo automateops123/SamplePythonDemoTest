@@ -1,5 +1,5 @@
 import unittest
-from mock import patch, MagicMock
+from unittest import mock
 from employee.Employee import Employee, EmpDetails
 import employee.Employee
 
